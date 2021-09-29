@@ -1,6 +1,6 @@
 const config = {
-        botName: 'ShanBot',
-        ownerName: 'Shan',
+        botName: 'Bot_mandi'o',
+        ownerName: 'Carlos Duarte',
         youtube: 'YOUTUBE_LINK',
-        instagram: 'INSTAGRAM_LINK',
+        instagram: 'https://instagram.com/mandioka_postin?utm_medium=copy_link',
 }
